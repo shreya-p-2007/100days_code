@@ -11,7 +11,6 @@ Output 2:
 Sum = 19
 
 #include <stdio.h>
-
 int main() {
     
     float num1, num2, sum;
