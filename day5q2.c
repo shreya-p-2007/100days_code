@@ -9,7 +9,6 @@ Input 2:
 Output 2:
 2:2:2
 */
-
 #include <stdio.h>
 
 int main() {
