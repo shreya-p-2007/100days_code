@@ -9,7 +9,6 @@ Input 2:
 Output 2:
 After swap: 14 7
 */
-
 #include <stdio.h>
 
 int main() {
