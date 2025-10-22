@@ -11,7 +11,6 @@ Input 2:
 Output 2:
 After swap: 1 -1
 */
-
 #include <stdio.h>
 
 int main() {
